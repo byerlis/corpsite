@@ -6,7 +6,16 @@
     <description>Recent content in Seminars on Byerlis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Aug 2023 07:41:41 +0900</lastBuildDate><atom:link href="https://byerlis.jp/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 18:05:12 +0900</lastBuildDate><atom:link href="https://byerlis.jp/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Byerlis Security Seminar 02</title>
+      <link>https://byerlis.jp/seminar/bss02/</link>
+      <pubDate>Sun, 03 Sep 2023 18:05:12 +0900</pubDate>
+      
+      <guid>https://byerlis.jp/seminar/bss02/</guid>
+      <description>CCS 2023の全論文N本を2時間で紹介する会（仮） 日時：2023年12月??日（?） 18:00-21:00のうち2時間を予定 場所：JR池袋駅徒歩圏（参加連絡を頂いた方に個別連絡致します） 話者：大畑幸矢（Byerlis Inc.） 詳細：参加費無料、配信なし、定員49名（先着順） 概要：2023年11月に開催される国際会議CCS 2023に関して、全体傾向や採録論文を一通り紹介する。 </description>
+    </item>
+    
     <item>
       <title>Byerlis Security Seminar 01</title>
       <link>https://byerlis.jp/seminar/bss01/</link>
