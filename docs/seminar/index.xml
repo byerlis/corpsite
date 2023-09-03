@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Byerlis</title>
-    <link>https://byerlis.jp/</link>
-    <description>Recent content on Byerlis</description>
+    <title>Seminars on Byerlis</title>
+    <link>https://byerlis.jp/seminar/</link>
+    <description>Recent content in Seminars on Byerlis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Sep 2023 17:14:35 +0900</lastBuildDate><atom:link href="https://byerlis.jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 17:14:35 +0900</lastBuildDate><atom:link href="https://byerlis.jp/seminar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Byerlis Security Seminar 02</title>
       <link>https://byerlis.jp/seminar/bss02/</link>
@@ -23,24 +23,6 @@
       
       <guid>https://byerlis.jp/seminar/bss01/</guid>
       <description>Usenix Security 2023の全論文422本を2時間で紹介する会 日時：2023年9月1日（金） 14:00 - 16:00 場所：JR池袋駅徒歩圏（参加連絡を頂いた方に個別連絡いたします） 話者：大畑幸矢（Byerlis Inc.） 詳細：参加費無料、配信なし、定員49名（先着順） 概要：2023年8月に開催される国際会議Usenix Security 2023に関して、全体傾向や採録論文を一通り紹介する。 (2023/9/3追記)　セミナーは盛況のうちに終了いたしました。</description>
-    </item>
-    
-    <item>
-      <title>ニュース</title>
-      <link>https://byerlis.jp/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://byerlis.jp/news/</guid>
-      <description>TBA</description>
-    </item>
-    
-    <item>
-      <title>会社概要</title>
-      <link>https://byerlis.jp/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://byerlis.jp/about/</guid>
-      <description>所在地：〒170-0013 東京都豊島区東池袋1-17-11-1105 代表取締役：大畑幸矢 連絡先：contact at byerlis dot jp </description>
     </item>
     
   </channel>

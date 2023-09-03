@@ -1,0 +1,68 @@
+baseURL = "https://byerlis.jp"
+title = "Byerlis"
+paginate = 5
+theme = "PaperMod"
+defaultContentLanguage = "ja"
+publishDir = "docs"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+# keywords = [ "Byerlis", "InformationSecirity" ]
+# author = "Byerlis Inc."
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowBreadCrumbs = true
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+tocopen = true
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/byerlis"
+
+[languages.ja.profileMode]
+enabled = true
+title = "株式会社Byerlis"
+subtitle = "Byerlis Inc."
+# imageUrl = "images/profile.png"
+# imageWidth = 120
+# imageHeight = 120
+# imageTitle = "profile"
+
+  [[languages.ja.profileMode.buttons]]
+  name = "会社概要"
+  url = "about"
+
+  [[languages.ja.profileMode.buttons]]
+  name = "ニュース"
+  url = "news/"
+
+  [[languages.ja.profileMode.buttons]]
+  name = "セミナー"
+  url = "seminar/"
+
+[[languages.ja.menu.main]]
+name = "会社概要"
+url = "about"
+weight = 2
+
+[[languages.ja.menu.main]]
+name = "ニュース"
+url = "news/"
+weight = 3
+
+[[languages.ja.menu.main]]
+name = "セミナー"
+url = "seminar/"
+weight = 4
