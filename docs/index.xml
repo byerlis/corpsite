@@ -6,7 +6,20 @@
     <description>Recent content on Byerlis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Sep 2023 18:05:12 +0900</lastBuildDate><atom:link href="https://byerlis.jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 16:51:12 +0900</lastBuildDate><atom:link href="https://byerlis.jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Byerlis Security Seminar 03</title>
+      <link>https://byerlis.jp/seminar/bss03/</link>
+      <pubDate>Mon, 18 Dec 2023 16:51:12 +0900</pubDate>
+      
+      <guid>https://byerlis.jp/seminar/bss03/</guid>
+      <description>NDSS 2024の全論文???本を2時間で紹介する会 日時：2024年??月??日（？） ??:??-??:?? 場所：JR池袋駅徒歩圏（参加連絡を頂いた方に個別連絡します） 話者：大畑幸矢（Byerlis Inc.） 詳細：参加費無料、配信なし、定員??名（先着順） 概要：2024年2月に開催される国際会議NDSS 2024に関して、全体傾向や採録論文を一通り紹介します。 販売：希望される方には発表スライドを販売いたします。勉強会への参加とは独立です。詳しくはメールでお問い合わせ下さい。 参加をご希望の方は下記の情報を記載の上、bss at byerlis dot jpまでご連絡ください。
+氏名：
+所属：
+皆様のご参加をお待ちしております。
+残席：??（2024/??/??時点）</description>
+    </item>
+    
     <item>
       <title>Byerlis Security Seminar 02</title>
       <link>https://byerlis.jp/seminar/bss02/</link>
