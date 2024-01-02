@@ -28,8 +28,8 @@ hideSummary = false
 tocopen = true
 
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/byerlis"
+  name = "x-twitter"
+  url = "https://x.com/byerlis"
 
 [languages.ja.profileMode]
 enabled = true
