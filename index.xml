@@ -6,8 +6,15 @@
     <description>Recent content on Byerlis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 15 Mar 2024 20:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://byerlis.jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>講演：データ活用基盤に関するプライバシ保護技術の現状</title>
+      <link>https://byerlis.jp/news/20240625/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0900</pubDate>
+      <guid>https://byerlis.jp/news/20240625/</guid>
+      <description>2024年6月25日に開催された日本学術振興会のR053設計・計測・解析の協調プラットフォーム委員会第3回研究会にて、「データ活用基盤に関するプライバシ保護技術の現状」という題目で弊社代表の大畑が講演しました。</description>
+    </item>
     <item>
       <title>Byerlis Security Seminar 04</title>
       <link>https://byerlis.jp/seminar/bss04/</link>
