@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://byerlis.jp/</loc>
-    <lastmod>2024-09-18T00:00:00+09:00</lastmod>
+    <lastmod>2024-10-22T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://byerlis.jp/news/</loc>
+    <lastmod>2024-10-22T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://byerlis.jp/news/20241022/</loc>
+    <lastmod>2024-10-22T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://byerlis.jp/seminar/bss06/</loc>
     <lastmod>2024-09-18T00:00:00+09:00</lastmod>
@@ -13,9 +19,6 @@
   </url><url>
     <loc>https://byerlis.jp/seminar/bss05/</loc>
     <lastmod>2024-07-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://byerlis.jp/news/</loc>
-    <lastmod>2024-06-26T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://byerlis.jp/news/20240625/</loc>
     <lastmod>2024-06-26T00:00:00+09:00</lastmod>

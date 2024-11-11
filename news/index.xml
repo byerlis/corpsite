@@ -6,8 +6,15 @@
     <description>Recent content in News on Byerlis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://byerlis.jp/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>講演：生成モデルに関するセキュリティとプライバシの現状</title>
+      <link>https://byerlis.jp/news/20241022/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0900</pubDate>
+      <guid>https://byerlis.jp/news/20241022/</guid>
+      <description>2024年10月22～25日に開催されたコンピュータセキュリティシンポジウム2024 (CSS 2024)にて、「生成モデルに関するセキュリティとプライバシの現状」という題目で弊社代表の大畑が講演しました。</description>
+    </item>
     <item>
       <title>講演：データ活用基盤に関するプライバシ保護技術の現状</title>
       <link>https://byerlis.jp/news/20240625/</link>
