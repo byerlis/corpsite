@@ -6,8 +6,15 @@
     <description>Recent content in News on Byerlis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://byerlis.jp/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>講演：高度に並列動作する認証メモリ暗号機構</title>
+      <link>https://byerlis.jp/news/20250129/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://byerlis.jp/news/20250129/</guid>
+      <description>2025年1月28～31日に開催された2025年 暗号と情報セキュリティシンポジウム (SCIS 2025)にて、「高度に並列動作する認証メモリ暗号機構」（著者：古川潤、五島正裕、大畑幸矢、高前田伸也）という題目で弊社代表の大畑が講演しました。</description>
+    </item>
     <item>
       <title>講演：生成モデルに関するセキュリティとプライバシの現状</title>
       <link>https://byerlis.jp/news/20241022/</link>
