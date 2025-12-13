@@ -6,8 +6,15 @@
     <description>Recent content in News on Byerlis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://byerlis.jp/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>書籍出版：暗号理論による秘密計算からプライバシー保護データ解析へ</title>
+      <link>https://byerlis.jp/news/20251110/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0900</pubDate>
+      <guid>https://byerlis.jp/news/20251110/</guid>
+      <description>弊社代表の大畑が執筆に参加した書籍「暗号理論による秘密計算からプライバシー保護データ解析へ」がサイエンス社より出版されました。九州大学の縫田氏、NTT社会情報研究所の菊池氏との共著となります。</description>
+    </item>
     <item>
       <title>講演：高度に並列動作する認証メモリ暗号機構</title>
       <link>https://byerlis.jp/news/20250129/</link>
